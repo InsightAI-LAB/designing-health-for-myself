@@ -1,0 +1,20 @@
+DRAFT CALL FOR PARTICIPATION
+Designing Health for Myself | Proposed CHI 2027 workshop
+Acceptance pending. Submissions are not open. The email route and dates need organizer approval.
+The 250-word draft below is for review, not an invitation to submit now.
+
+--- BEGIN 250-WORD CALL ---
+
+How can people create health and wellbeing apps that remain understandable, changeable, and appropriate for their lives? Designing Health for Myself brings together researchers and practitioners in human–computer interaction, end-user development, personal informatics, digital health, accessibility, and responsible AI to examine AI-assisted personal app authoring.
+
+Across two consecutive, in-person 85-minute sessions, separated by a break, we will map who controls app goals, generated behavior, data, and maintenance. Small groups will work with fictional wellbeing scenarios, challenge design assumptions, and develop practical evaluation questions. We will produce a shared research agenda, reusable authoring and control worksheets, and a synthesis of unresolved tensions. No coding experience, working prototype, or personal health disclosure is required.
+
+We invite one- or two-page position papers, excluding references, or accessible contributions of 500–1000 words. Describe an authoring challenge, an example or design tension, and a question for discussion. Early ideas, critical perspectives, and unsuccessful prototypes are welcome. Submit to whasan@tuskegee.edu using the instructions and confirmed deadline on our website.
+
+We expect 20–30 attendees, including organizers, and require at least ten. The workshop is open to all CHI attendees, with priority for authors of accepted position papers. At least two organizers must register and attend; the full organizing team is planned.
+
+With permission, we will share position papers and workshop artifacts on the website as non-archival materials. Only the organizer proposal enters CHI Extended Abstracts. Publication is optional, and contributors can review attribution before release. Offline materials and an accessible summary will support later readers.
+
+Workshop website: forthcoming
+
+--- END CALL ---

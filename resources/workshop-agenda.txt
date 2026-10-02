@@ -1,0 +1,29 @@
+DRAFT WORKSHOP AGENDA
+Designing Health for Myself
+AI-assisted personal app authoring, agency, and safety
+Proposed CHI 2027 workshop: acceptance pending.
+Date, time, and room: to be confirmed by CHI.
+
+Two consecutive, in-person 85-minute sessions (170 minutes working time).
+Each range below is relative to the start of its session.
+
+SESSION ONE: FROM PERSONAL NEEDS TO ACCOUNTABLE DESIGN
+00–10: Welcome, introductions, access options, fictional-information boundary, and publication choices
+10–25: Shared questions and design tensions in brief facilitated rounds
+25–55: Fictional scenario authoring with prepared sketches and model-like suggestions
+55–85: Map decision authority, identify dependencies, and prepare a cross-group handoff
+
+BREAK
+A 20-minute break is requested, subject to CHI's timetable. No required activity.
+
+SESSION TWO: CHALLENGE, REPAIR, AND A RESEARCH AGENDA
+00–30: Exchange designs and challenge them with change cards
+30–55: Revise the design and specify evidence for evaluation claims
+55–75: Share methods and boundaries; prioritize research questions and retain disagreements
+75–85: Review output permissions, attribution, the contributor-review window, and optional follow-up
+
+PARTICIPATION
+No coding experience, working prototype, commercial AI account, personal device, or live network is required. Speak, write, type, use facilitator assistance, or pass. Paper and editable-text materials are planned. All scenarios are fictional. Please do not bring personal health records. The workshop is not a study of attendees; no default audio/video recording is planned. Participation is not research consent or permission to publish.
+
+OUTPUTS AND FOLLOW-UP
+Planned: authorship/control maps, evaluation worksheets, and approximately five priority research questions. These are provisional resources, not validated safety standards or evidence of health benefit. Organizers plan to circulate a synthesis within four weeks, with at least two weeks for contributors to correct attribution, withdraw material, or decline credit before release.

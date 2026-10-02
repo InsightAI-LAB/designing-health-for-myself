@@ -1,0 +1,23 @@
+DESIGNING HEALTH FOR MYSELF
+Full workshop website + GitHub Pages deployment package
+
+1. PREVIEW
+Open index.html in a browser to review the website. All styles, scripts, and downloads are local. For the exact deployment output, follow README.md to build and serve _site/ with Python.
+
+2. REVIEW
+Acceptance is pending and submissions are closed. Confirm organizers, the submission route, dates, and permission to publish using docs/LAUNCH_CHECKLIST.md. No personal health information is requested. The activity pack uses fictional scenarios.
+
+3. PUT IT ON GITHUB
+Use the repository name designing-health-for-myself under your approved GitHub owner. DEPLOYMENT.md includes full Git and GitHub-browser instructions. Include hidden files, especially .github/workflows/pages.yml. Do not upload this ZIP as the site or nest the files an extra folder deep.
+
+4. ENABLE THE PIPELINE WHEN READY
+Set Settings > Pages > Source to GitHub Actions. Add the repository variable PAGES_DEPLOY_ENABLED=true, then manually run Website checks and Pages on main. The guide explains environment restrictions and permissions. No deployment secret or personal access token is needed by the workflow.
+
+5. MAINTAIN
+Pull requests run checks only. Once enabled, successful main pushes publish. Edit source, review a pull request, and merge to update. Rollback, pause, and troubleshooting steps are in DEPLOYMENT.md.
+
+WHAT IS COMPLETE
+The website, local build/check scripts, GitHub workflow, and deployment/maintenance guides are included. Static checks and pipeline-policy checks passed.
+
+WHAT IS NOT VERIFIED
+No repository or live website was created. GitHub-hosted CI has not run. Real-browser visual/interaction QA could not run in the build environment; follow docs/VALIDATION.md before release.

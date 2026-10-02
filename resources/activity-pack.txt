@@ -1,0 +1,111 @@
+DRAFT ACTIVITY PACK
+
+Designing Health for Myself | Proposed CHI 2027 workshop
+
+Acceptance pending. Fictional information only.
+
+These exercises are not validated safety standards, clinical safeguards, research instruments, or evidence of health benefit.
+
+No personal health disclosure or coding is required. Participation is not research consent.
+
+
+FICTIONAL SCENARIOS
+
+1. Rest planner: Alex works changing shifts and wants a simple way to plan a short rest. The draft app sends fixed daily reminders and displays a streak. Ask whether reminders and streaks fit, what information is actually needed, and how Alex can change or stop the behavior. Do not generate medical sleep recommendations.
+
+2. Private reflection journal: Morgan wants to make brief notes about daily routines. The draft app proposes cloud summaries and sharing by default. Ask what leaves the device, whether summaries are wanted, how the person can inspect or delete records, and what happens when the service ends. Do not infer a diagnosis.
+
+3. Gentle activity breaks: Sam wants occasional prompts during desk work but sometimes finds notifications distracting. The draft app treats every missed prompt as failure. Ask who defines success, how to reduce burden, and whether a non-app alternative would fit better. Do not prescribe exercise for a medical condition.
+
+
+AUTHORSHIP AND CONTROL WORKSHEET
+
+For each consequential decision, record: the personal goal; the proposed behavior; who suggested it; who approved it; assumptions or values embedded in it; what the person can inspect; what they can veto, edit, or undo; data and external services involved; a test that would reveal an unwanted outcome; and who maintains or retires the feature. Cover goals, interface, logic, data, deployment, and retirement. Mark unknowns rather than fill them with guesses.
+
+Personal goal:
+
+
+
+Proposed behavior:
+
+
+
+Who suggested it? Who approved it?:
+
+
+
+Embedded assumptions and values:
+
+
+
+What can the person inspect?:
+
+
+
+What can they veto, edit, or undo?:
+
+
+
+Data and external services:
+
+
+
+Test for an unwanted outcome:
+
+
+
+Who maintains or retires the feature?:
+
+
+
+Unknowns and unresolved dependencies:
+
+
+
+
+CHANGE CARDS
+
+Choose one: a person’s routine changes; a generated rule changes after a model update; connectivity or hosting disappears; the service asks to upload additional data; a screen reader cannot use a control; or the person wants to export records and leave. Ask what breaks, who notices, what can be repaired locally, what requires another person or provider, and when the safest response is to remove the feature.
+
+
+EVALUATION WORKSHEET
+
+Complete one row per proposed claim using these fields: claim; observable evidence; task or scenario that could disprove it; appropriate evaluator; cost or burden of collecting evidence; and remaining uncertainty. Example: Claim — the maker controls reminders. Evidence — they locate the rule, explain it, disable it, and verify that no new reminder occurs. Failure — reminders continue through a separate service. Limitation — success on this task does not establish clinical benefit or security of the whole application.
+
+Proposed claim:
+
+
+
+Observable evidence:
+
+
+
+A task or scenario that could disprove it:
+
+
+
+Appropriate evaluator:
+
+
+
+Cost or burden of collecting evidence:
+
+
+
+Remaining uncertainty:
+
+
+
+
+SYNTHESIS PROMPTS
+
+Record one promising evaluation method, one important boundary, one unresolved disagreement, and one research question. For each priority question, say whose perspective is missing, what kind of study would answer it, and what expertise or ethics review it would require. Keep ranking results as facilitation aids, not research measurements.
+
+
+BEFORE ANYTHING IS SHARED
+
+Ask separately about circulation, public posting, and naming contributors. A blank answer means no public permission. Copyright remains with contributors. Public posting, linking, participant-only circulation, and review-only sharing are separate options.
+
+Planned synthesis: circulate within four weeks of the workshop; give at least two weeks for corrections, withdrawal, and attribution choices before public release.
+
+Do not collect participant health information, identifiable behavioral research notes, or recordings.
