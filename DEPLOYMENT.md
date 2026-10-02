@@ -54,7 +54,7 @@ Review the staged content. Confirm that `.github/workflows/pages.yml`, `.github/
 
 ```sh
 git commit -m "Add workshop website and GitHub Pages pipeline"
-git remote add origin https://github.com/YOUR_GITHUB_OWNER/designing-health-for-myself.git
+git remote add origin https://github.com/InsightAI-LAB/designing-health-for-myself.git
 git push -u origin main
 ```
 
